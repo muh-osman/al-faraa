@@ -256,6 +256,7 @@ body{
 .thumbnails li{
 	list-style:none;
 	display:inline-block;
+	display: flex;
 	margin:0 5px;
 	-webkit-box-shadow:0 0 10px #ccc;
 	-moz-box-shadow:0 0 10px #ccc;
